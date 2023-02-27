@@ -1,0 +1,23 @@
+table
+{
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+a:hover
+{
+    color: white;
+}
+img
+{
+        width: 20%;
+        float: left;
+}
+body
+{
+    background-color:darkred;
+}
